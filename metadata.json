@@ -1,0 +1,6 @@
+{
+  "name": "Tarew",
+  "description": "Neighborhood Future-Impact Tracker for Indian localities, tracking upcoming construction, metro lines, RERA projects, environmental clearances, and citizen objection windows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
